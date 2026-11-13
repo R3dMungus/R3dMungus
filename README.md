@@ -1,16 +1,17 @@
-## Hi there 👋
+   ╔═════════════════════════════════╗
+   ║                                 ║
+   ║                                 ║
+   ║                                 ║
+   ║                                 ║
+   ║                                 ║
+   ╚═════════════════════════════════╝
 
-<!--
-**R3dMungus/R3dMungus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="678" height="643" alt="Birthdaymungus" src="https://github.com/user-attachments/assets/335bd66d-cb63-4ab9-9d01-c87f62f757a0" /> `"STFUB"`
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   ╔═════════════════════════════════╗
+   ║                                 ║
+   ║                                 ║
+   ║                                 ║
+   ║                                 ║
+   ║                                 ║
+   ╚═════════════════════════════════╝
