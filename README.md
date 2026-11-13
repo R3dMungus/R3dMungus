@@ -7,6 +7,7 @@
    ╚═════════════════════════════════╝
 
 <img width="678" height="643" alt="Birthdaymungus" src="https://github.com/user-attachments/assets/1db7df68-9d73-44df-a3dc-e2d07c2ae4a9" />
+ 
  `"STFUB"`
 
    ╔═════════════════════════════════╗
