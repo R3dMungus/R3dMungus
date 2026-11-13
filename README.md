@@ -6,7 +6,8 @@
    ║                                 ║
    ╚═════════════════════════════════╝
 
-<img width="678" height="643" alt="Birthdaymungus" src="https://github.com/user-attachments/assets/335bd66d-cb63-4ab9-9d01-c87f62f757a0" /> `"STFUB"`
+<img width="678" height="643" alt="Birthdaymungus" src="https://github.com/user-attachments/assets/1db7df68-9d73-44df-a3dc-e2d07c2ae4a9" />
+ `"STFUB"`
 
    ╔═════════════════════════════════╗
    ║                                 ║
